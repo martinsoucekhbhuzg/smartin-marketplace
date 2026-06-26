@@ -1,0 +1,18 @@
+{
+  "name": "smartin-compass",
+  "version": "0.1.1",
+  "description": "Work smarter. Catch raw ideas as they come, see which ones are worth checking, and get one clean weekly Finding worth forwarding. Free and local-first. Built on the Smartin Compass 6-tile method.",
+  "author": {
+    "name": "Smartin",
+    "email": "martin.soucek@smartin.work"
+  },
+  "homepage": "https://smartin.work",
+  "keywords": [
+    "smartin",
+    "compass",
+    "ideas",
+    "validation",
+    "decision",
+    "kompas"
+  ]
+}
